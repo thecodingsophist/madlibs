@@ -1,0 +1,20 @@
+{
+    "cnn": {
+        "link": "http://edition.cnn.com/"
+    },
+    "bbc": {
+        "link":"http://www.bbc.com/"
+    },
+    "theguardian": {
+        "link": "https://www.theguardian.com/international"
+    },
+    "foxnews": {
+        "link": "http://www.foxnews.com/"
+    },
+    "washingtonpost": {
+        "link": "https://www.washingtonpost.com/"
+    },
+    "theonion": {
+        "link": "http://www.theonion.com/"
+    }
+}
