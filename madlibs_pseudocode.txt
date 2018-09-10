@@ -1,0 +1,8 @@
+PSEUDOCODE: 
+
+Take list of words, take a random word from it and "glitterize" the newspaper article
+
+["rainbow", "unicorn", "narwal", "mermaid", "glitter", "wizard", "magic", "wand", "witch", "horn", "dragon", "fire", "dolphin", "color"]
+
+
+
